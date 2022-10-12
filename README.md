@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burperring
 - 👀 I’m interested in Game, Movie
-- 🌱 I’m currently learning Unity and Unreal Engine
+- 🌱 I’m currently learning Unity and Unreal Engine and game plan
 - 📫 How to reach me : khw5231@gmail.com
 
 <!---
