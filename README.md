@@ -1,10 +1,11 @@
+
 - 👋 Hi, I’m @burperring
 - 👀 I’m interested in Game, Movie
 - 🌱 I’m currently learning Unity and Unreal Engine and game plan
 - 📫 How to reach me : khw5231@gmail.com
 
-- Career
-  17.02 ~ 23.02 : Computer Engineering at Inje University 
+- Career<br/>
+  17.02 ~ 23.02 : Computer Engineering at Inje University %20<br/>
   22.08 ~ 24.09 : Funnylocks.corp
 <!---
 burperring/burperring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
