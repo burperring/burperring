@@ -6,7 +6,7 @@
 
 - Career<br/>
   17.02 ~ 23.02 : Computer Engineering at Inje University %20<br/>
-  22.08 ~ 24.09 : Funnylocks.corp
+  22.08 ~ 24.09 : Unreal Engineering at Funnylocks.corp
 <!---
 burperring/burperring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
