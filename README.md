@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Unity and Unreal Engine and game plan
 - 📫 How to reach me : khw5231@gmail.com
 
+- Career
+  17.02 ~ 23.02 : Computer Engineering at Inje University 
+  22.08 ~ 24.09 : Funnylocks.corp
 <!---
 burperring/burperring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
