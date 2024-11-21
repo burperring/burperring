@@ -5,7 +5,7 @@
 - 📫 How to reach me : khw5231@gmail.com
 
 - Career<br/>
-  17.02 ~ 23.02 : Computer Engineering at Inje University %20<br/>
+  17.02 ~ 23.02 : Computer Engineering at Inje University <br/>
   22.08 ~ 24.09 : Unreal Engineering at Funnylocks.corp
 <!---
 burperring/burperring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
