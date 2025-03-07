@@ -6,7 +6,7 @@
 
 - Career<br/>
   17.02 ~ 23.02 : Computer Engineering at Inje University <br/>
-  22.08 ~ 24.09 : Unreal Engineering at Funnylocks.corp
+  22.08 ~ 24.09 : Unreal Engineering at Funnylocks.corp <br/>
   24.12 ~ : Sparta Unreal BootCamp (https://iii.ad/91b095)
 <!---
 burperring/burperring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
