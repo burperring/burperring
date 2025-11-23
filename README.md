@@ -8,7 +8,7 @@
   17.02 ~ 23.02 : Computer Engineering at Inje University <br/>
   22.08 ~ 24.09 : Unreal Engineering at Funnylocks.corp <br/>
   24.12 ~ 25.06 : Sparta Unreal BootCamp (https://iii.ad/91b095) <br/>
-  25.06 ~ : VIC Game Studio
+  25.06 ~ : Unreal Engineering Client at VIC Game Studio
 <!---
 burperring/burperring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
