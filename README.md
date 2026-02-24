@@ -37,3 +37,4 @@
 <img alt="TortoiseSVN" src ="https://img.shields.io/badge/TortoiseSVN-BDBDBD.svg?&style=for-the-badge&logoColor=Black"/>
 <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img alt="Trello" src ="https://img.shields.io/badge/Trello-0052CC.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
